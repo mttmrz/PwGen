@@ -1,3 +1,0 @@
-/nfs/homes/mmarzano/Desktop/42cursus/PWGEN/build/CMakeFiles/rebuild_cache.dir
-/nfs/homes/mmarzano/Desktop/42cursus/PWGEN/build/CMakeFiles/edit_cache.dir
-/nfs/homes/mmarzano/Desktop/42cursus/PWGEN/build/CMakeFiles/pwgen.dir
